@@ -7,7 +7,7 @@ Comes with a sqlite3 database prepopulated with users.
 
 To use:
 
-  git checkout git@github.com:georgedorn/project.git
+  git checkout git@github.com:SreelalSreenivasan/project.git
   
   pip install django #needs 1.5.0 or better, maybe use a virtualenv?
   
